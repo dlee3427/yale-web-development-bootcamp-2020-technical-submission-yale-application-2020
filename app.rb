@@ -1,5 +1,4 @@
 require_relative './test'
-AVERAGE_HEIGHT_IN_INCHES = 67
 
 AVERAGE_HEIGHT_IN_INCHES = 67 
 name = "David"
